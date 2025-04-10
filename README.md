@@ -1,2 +1,2 @@
-## I'm Abdelkarim (A.K.A. iiTzVein) 👋
+## I'm Abdelkarim (a.k.a. iiTzVein) 👋
 
