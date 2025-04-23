@@ -17,4 +17,4 @@ Providing high quality RP
 
 ![VeinDevTtv's GitHub stats](https://github-readme-stats.vercel.app/api?username=VeinDevTtv&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VeinDevTtv&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VeinDevTtv&hide_progress=true&theme=tokyonight)
