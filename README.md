@@ -5,7 +5,6 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Founder-Evolve-blueviolet?style=flat-square"/>
-  <img src="https://img.shields.io/badge/RP_Quality-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-brightgreen?style=flat-square"/>
   <img src="https://img.shields.io/badge/Focus-Trading_&_Dev-success?style=flat-square"/>
 </div>
 
