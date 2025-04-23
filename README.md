@@ -17,9 +17,6 @@
 - 🛠️ Ex-FiveM Serious RP server owner | Lead Dev | Full-stack Scripter (Lua / TS / Svelte)
 - 🧱 Founder of **Evolve RP** – focused on high-quality immersive roleplay
 - 📈 Funded Forex & Gold Trader ($100K funded) | Risk-tuned, sniper entries only
-- 🎤 Deep lyricist | MF DOOM-inspired | Future Casablanca poet with a Porsche GT3 dream
-- 🧠 Building toward a Master's in Machine Learning by 2030
-- 🇲🇦 Returning to Morocco soon to live, love, and create
 
 > “No shortcuts. Just vision, discipline, and execution.”
 
@@ -28,7 +25,7 @@
 ## 💬 Contact
 
 - 💬 Discord: `@iitzveinxd`
-- 🌐 [veindevttv.github.io/gt3-tracker](https://veindevttv.github.io/gt3-tracker/#/) – *Tracking the dream, one trade at a time.*
+- 🌐 *Tracking the dream, one trade at a time.*
 
 ---
 
