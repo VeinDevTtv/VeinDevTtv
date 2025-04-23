@@ -39,3 +39,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=VeinDevTtv&show_icons=true&theme=tokyonight"/>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VeinDevTtv&hide_progress_
+  <br/>
+  <img ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VeinDevTtv&hide_progress=true&theme=tokyonight)
