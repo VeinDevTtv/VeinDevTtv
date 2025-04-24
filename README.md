@@ -30,4 +30,5 @@
 
 ## 📊 GitHub Stats
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=VeinDevTtv&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![](https://raw.githubusercontent.com/VeinDevTtv/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/VeinDevTtv/github-stats/master/generated/overview.svg#gh-light-mode-only)
