@@ -30,5 +30,5 @@
 
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VeinDevTtv&langs_count=7&theme=radical)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VeinDevTtv&show_icons=true&theme=radical)
+![VeinDevTtv's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VeinDevTtv&langs_count=7&theme=radical)
+![VeinDevTtv's GitHub stats](https://github-readme-stats.vercel.app/api?username=VeinDevTtv&show_icons=true&theme=radical)
