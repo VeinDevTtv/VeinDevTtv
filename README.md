@@ -31,4 +31,4 @@
 ## 📊 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VeinDevTtv&langs_count=8&theme=highcontrast)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=highcontrast)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VeinDevTtv&show_icons=true&theme=highcontrast)
