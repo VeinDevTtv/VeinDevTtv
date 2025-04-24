@@ -30,5 +30,4 @@
 
 ## 📊 GitHub Stats
 
-![VeinDevTtv's GitHub stats](https://github-readme-stats.vercel.app/api?username=VeinDevTtv&show_icons=true&theme=cobalt)
-[![VeinDevTtv's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VeinDevTtv&layout=donut-vertical&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=VeinDevTtv&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
