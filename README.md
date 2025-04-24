@@ -15,7 +15,7 @@
 - 🎓 CS Major @ De Anza College (San Jose, CA)
 - 🛠️ Ex-FiveM Serious RP server owner | Lead Dev | Full-stack Scripter (Lua / TS / Svelte)
 - 🧱 Founder of **Evolve RP** – focused on high-quality immersive roleplay
-- 📈 Funded Forex & Gold Trader ($100K funded) | Risk-tuned, sniper entries only
+- 📈 Funded Index & Gold Trader ($100K funded)
 
 > “No shortcuts. Just vision, discipline, and execution.”
 
