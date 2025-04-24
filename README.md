@@ -3,20 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=veindevttv" alt="veindevttv" /></a> </p>
 
-- 🔭 I’m currently working on [GTARP Serious Roleplay Server](https://github.com/veindevttv)
-
-- 🌱 I’m currently learning **TypeScript, Advanced C++, ML frameworks (PyTorch)**
-
-- 👯 I’m looking to collaborate on [AI-powered Forex Analysis Tools]([Soon to publish])
-
-- 🤝 I’m looking for help with [React-based Trading Dashboard UI]([In development])
-
-- 👨‍💻 All of my projects are available at [[Soon to publish]]([Soon to publish])
-
-- 📝 I regularly write articles on [Trading psychology, dev logs & lyrical dissection (soon)](Trading psychology, dev logs & lyrical dissection (soon))
-
-- 💬 Ask me about **Liquidity traps, FiveM scripting, rap schemes**
-
 - 📫 How to reach me **abdelkarim.contact1@gmail.com or Discord: @iitzveinxd**
 
 <h3 align="left">Connect with me:</h3>
