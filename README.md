@@ -31,5 +31,5 @@
 ## 📊 GitHub Stats
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=VeinDevTtv&show_icons=true&theme=tokyonight&hide_border=true)
-![Top-Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VeinDevTtv&layout=compact&theme=tokyonight&hide_border=true)
+![VeinDevTtv's GitHub stats](https://github-readme-stats.vercel.app/api?username=VeinDevTtv&show_icons=true&theme=cobalt)
+![Top-Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VeinDevTtv&layout=compact&theme=cobalt&hide_border=true)
