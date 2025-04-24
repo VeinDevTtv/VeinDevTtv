@@ -32,4 +32,4 @@
 
 
 ![VeinDevTtv's GitHub stats](https://github-readme-stats.vercel.app/api?username=VeinDevTtv&show_icons=true&theme=cobalt)
-[![VeinDevTtv's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VeinDevTtv&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+[![VeinDevTtv's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VeinDevTtv&layout=donut-vertical&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
