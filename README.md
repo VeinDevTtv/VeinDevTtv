@@ -5,7 +5,6 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Founder-Evolve-blueviolet?style=flat-square"/>
-  <img src="https://img.shields.io/badge/RP_Quality-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-brightgreen?style=flat-square"/>
   <img src="https://img.shields.io/badge/Focus-Trading_&_Dev-success?style=flat-square"/>
 </div>
 
@@ -16,10 +15,8 @@
 - 🎓 CS Major @ De Anza College (San Jose, CA)
 - 🛠️ Ex-FiveM Serious RP server owner | Lead Dev | Full-stack Scripter (Lua / TS / Svelte)
 - 🧱 Founder of **Evolve RP** – focused on high-quality immersive roleplay
-- 📈 Funded Forex & Gold Trader ($100K funded) | Risk-tuned, sniper entries only
-- 🎤 Deep lyricist | MF DOOM-inspired | Future Casablanca poet with a Porsche GT3 dream
-- 🧠 Building toward a Master's in Machine Learning by 2030
-- 🇲🇦 Returning to Morocco soon to live, love, and create
+- 📈 Funded Forex & Gold Trader ($100K funded)
+- 🌐 *Tracking the dream, one trade at a time.*
 
 > “No shortcuts. Just vision, discipline, and execution.”
 
@@ -28,7 +25,6 @@
 ## 💬 Contact
 
 - 💬 Discord: `@iitzveinxd`
-- 🌐 [veindevttv.github.io/gt3-tracker](https://veindevttv.github.io/gt3-tracker/#/) – *Tracking the dream, one trade at a time.*
 
 ---
 
