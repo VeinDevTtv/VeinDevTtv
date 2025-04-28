@@ -30,5 +30,5 @@
 
 ## 📊 GitHub Stats
 
-![VeinDevTtv's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VeinDevTtv&langs_count=7&theme=dark)
-![VeinDevTtv's GitHub stats](https://github-readme-stats.vercel.app/api?username=VeinDevTtv&show_icons=false&theme=dark)
+![VeinDevTtv's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VeinDevTtv&langs_count=8&theme=dark)
+![VeinDevTtv's GitHub stats](https://github-readme-stats.vercel.app/api?username=VeinDevTtv&show_icons=true&theme=dark)
