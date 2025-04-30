@@ -31,10 +31,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/VeinDevTtv/VeinDevTtv/output/snake.svg" alt="Snake animation" />
-
-###
