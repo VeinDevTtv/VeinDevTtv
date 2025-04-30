@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Abdelkarim and I'm a CS student from Morocco but live in San Jose California</h2>
+<h2 align="left">Hi 👋! My name is Abdelkarim and I'm a programmer and trader from Morocco but live in San Jose California</h2>
 
 ###
 
