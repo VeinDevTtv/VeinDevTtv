@@ -2,7 +2,7 @@
 
 <p align="left">
   I blend code with charts — part-time programmer, full-time optimizer.<br>
-  I build tools, trade XAUUSD & NASDAQ, and automate anything worth repeating.
+  I build tools, trade NASDAQ, and automate anything worth repeating.
 </p>
 
 ###
