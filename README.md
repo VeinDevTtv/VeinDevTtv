@@ -1,4 +1,4 @@
-<h2 align="left">Hey 👋 I'm Abdelkarim, a Developer from Morocco 🇲🇦, based in San Jose 🇺🇸</h2>
+<h2 align="left">Hey 👋 I'm Abdelkarim, a Developer from Morocco 🇲🇦</h2>
 
 <p align="left">
   I blend code with charts — part-time programmer, full-time optimizer.<br>
