@@ -12,19 +12,4 @@
 
 ###
 
-<h3 align="left">🧠 Tech Stack</h3>
-
-###
-
-<h3 align="left">🛠️ Current Projects</h3>
-
-- 🔧 Rebuilding a custom FiveM RP server with TypeScript/Svelte
-- 📈 Developing a trading signal system with full automation & Discord integration  
-
-###
-
-<h3 align="left">📫 Let’s Connect</h3>
-
-- Discord: `@iitzveinxd`  
-- Portfolio: [Coming soon]  
-- Always down to collab on clean code 
+<h3 align="left">🧠 Tech Stack</
