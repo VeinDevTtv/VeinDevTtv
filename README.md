@@ -1,9 +1,5 @@
 <h2 align="left">Hey 👋 I'm Abdelkarim Ait Bourich, aka Vein, a Developer from Morocco 🇲🇦</h2>
 
-<p align="left">
-  I blend code with charts — part-time programmer, full-time optimizer.<br>
-  I build tools, trade NASDAQ, and automate anything worth repeating.
-</p>
 
 ###
 
