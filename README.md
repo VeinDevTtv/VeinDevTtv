@@ -1,4 +1,4 @@
-<h2 align="left">Hey 👋 I'm Abdelkarim Ait Bourich, aka Vein, a Developer from Morocco 🇲🇦</h2>
+<h2 align="left">Hey 👋 I'm Abdelkarim Ait Bourich, a Developer from Morocco 🇲🇦</h2>
 
 
 ###
