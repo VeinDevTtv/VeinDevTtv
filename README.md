@@ -11,5 +11,3 @@
 </div>
 
 ###
-
-<h3 align="left">🧠 Tech Stack</
