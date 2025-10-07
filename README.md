@@ -1,4 +1,4 @@
-<h2 align="left">Hey 👋 I'm Abdelkarim Ait Bourich, a Developer from Morocco based in Silicon Valley</h2>
+<h2 align="left">Hey 👋 I'm Abdelkarim Ait Bourich, a CS student with experience in web apps and financial markets</h2>
 
 
 ###
