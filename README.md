@@ -1,4 +1,4 @@
-<h2 align="left">Hey 👋 I'm Abdelkarim Ait Bourich, a CS student with experience in web apps and financial markets</h2>
+<h2 align="left">Hey 👋 I'm Abdelkarim Ait Bourich, a CS student with experience in web apps and financial markets. Currently working on Nasai, an AI powered app that helps you invest with good strats.</h2>
 
 
 ###
