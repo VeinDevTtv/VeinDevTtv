@@ -1,6 +1,6 @@
 # Hi 👋, I'm Abdelkarim Ait Bourich
 
-### developer
+### SWE
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=VeinDevTtv" alt="VeinDevTtv" /></a> </p>
 
