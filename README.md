@@ -8,7 +8,7 @@
 
 - 🔭 I'm currently working on **NasAI, an AI powered trading automator.**
 
-- 📫 How to reach me **abdelkarim@nasai.app**
+- 📫 How to reach me **abdelkarim.contact1@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
