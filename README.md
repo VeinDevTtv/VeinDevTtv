@@ -1,6 +1,6 @@
 # Hi 👋, I'm Abdelkarim Ait Bourich
 
-### SWE
+### ai & game dev
 
 - 📫 How to reach me **abdelkarim.contact1@gmail.com**
 - More info in https://aitbourich.com
